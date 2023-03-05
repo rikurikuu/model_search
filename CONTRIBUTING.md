@@ -1,3 +1,4 @@
+A simple addition to contributing.md
 # How to Contribute
 
 We'd love to accept your patches and contributions to this project. There are
