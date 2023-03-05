@@ -1,3 +1,4 @@
+A simple addition to contributing.md
 A little bit different addition to contributing.md
 # How to Contribute
 
